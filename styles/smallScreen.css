@@ -1,0 +1,16 @@
+@media screen and (min-width:769px) {
+
+.form-container {
+    width: 40rem;
+    height: 13rem;
+}
+
+header h1 {
+    font-size: 2.75rem;
+}
+
+.filter-todos {
+    font-size: 1.65rem;
+}
+
+}

@@ -1,0 +1,17 @@
+@media screen and (min-width:993px) { 
+
+.form-container {
+    flex-direction: row; 
+    width: 50rem;   
+}
+
+form {
+    width: 70%;
+    border-radius: 0rem;
+}
+
+.select {
+    width: 27.5%;
+}
+
+}
